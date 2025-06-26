@@ -24,3 +24,8 @@ Issue Book
 Return Book
 Search Token
 Exit Enter your choice
+
+🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
+
